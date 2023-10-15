@@ -32,12 +32,18 @@ National Veterans Homeless Support (NVHS) - https://nvhs.org/donate/?gclid=Cj0KC
 
 Rough Breakdown of Tasks: 
 1.	Find, clean, & combine datasets.
-2.	Each team member is tasked with answering and collecting data for one question: 
+2.	Each team member is tasked with answering and collecting data for one question:
+   
   •	To what extent does the presence of welfare programs correlate with reduced rates of homelessness? - Beauty
+
   •	How are natural disasters impacting homelessness? - Isha
+  
   •	What are the demographic characteristics of the homeless population? - Arle
+  
   •	How does substance abuse affect homelessness? - Alex
+  
   •	What is count of veterans experiencing homelessness? – Nancy
+  
 4.	Analyze and create graphs to answer our research questions.
 5.	Clean-up & merge code to GitHub.
 6.	Prepare 10-minute presentation.
