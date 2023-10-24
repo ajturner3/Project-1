@@ -16,6 +16,10 @@ The code generates line graphs to visualize the data, providing a visual represe
 Findings:
 The analysis shows that California has experienced a significant increase in homelessness, particularly in unsheltered populations, while Texas has seen a slight decrease in total homelessness.
 The combined analysis highlights the contrasting situations in the two states, with California facing a more severe homelessness crisis.
+
 Graphs:
 
+![texas_homelessness_graph](https://github.com/ajturner3/Project-1/assets/125511680/2d6ee846-a3aa-4514-8cd6-0018aeb6f6b0)
+![california_homelessness_graph](https://github.com/ajturner3/Project-1/assets/125511680/9a650bb3-086c-4753-abea-6600ebd9d175)
+![combined_homelessness_graph](https://github.com/ajturner3/Project-1/assets/125511680/cc897730-0e41-47f3-b4b0-e9c5c47d8545)
 
