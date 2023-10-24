@@ -39,3 +39,4 @@ Office of Policy Development and Research (PD&R) - Estimates of Homelessness in 
 
 - Homeless population in Texas for age group - Under 18 - is decreasing in mid years and then there's a rise as move towards 2020. 18 to 24 - is approximately same for all 7 years. Above 24 - is Significantly increasing as we move towards 2020.
 - Above graphs clearly state that for population in the group above 24, Texas witnesses a significant fall in 2020 as compared to 2013 and a gradual rise in California in the same span of years.
+- Population of age above 24 is majorly affected by homelessness in both the states.
