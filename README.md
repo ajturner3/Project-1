@@ -42,4 +42,14 @@ Race - Similar to the California dataset there appears to be an increase in the 
 
 Veterans - By comparing the bar graphs for Texas and California, it is clear that Texas had the greater overall drop in homeless Veterans. Texas has an overall 49.86% decrease in homeless veterans, whereas California only had a 12.42% decrease. Texas shows that a significant greater amount of homeless veterans made use of homeless shelters over the years, while California had nearly over 50% of homeless veterans not making use of homeless shelters in their area. This could be due to many factors, such as government funding, or general lack of other resources (such as mental health care/addiction) for the veterans.
 
+References:
+https://www.huduser.gov/portal/datasets/ahar/2020-ahar-part-1-pit-estimates-of-homelessness-in-the-us.html
+https://www.huduser.gov/portal/sites/default/files/xls/2007-2020-PIT-Estimates-by-CoC.xlsx
+https://www.huduser.gov/portal/sites/default/files/xls/2007-2020-PIT-Estimates-by-state.xlsx
+https://www.huduser.gov/portal/sites/default/files/xls/2011-2020-PIT-Veteran-Counts-by-CoC.xlsx
+https://soarworks.samhsa.gov/article/definitions-of-homelessness#:~:text=The%20definition%20of%20those%20who,not%20meant%20for%20habitation%2C%20or
+https://www.texastribune.org/2023/01/26/texas-homeless-veterans-affairs-va/#:~:text=Texas%20and%20California%20have%20the,the%20beginning%2C%E2%80%9D%20McDonough%20said
+lendingtree.com/home/mortgage/homelessness-study/
+
+We would also like to give credit to our TA's and tutors for guidance and patience throughout the project, as well as to ChatGPT for the moments we felt stuck in our code. 
 
