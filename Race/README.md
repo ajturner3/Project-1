@@ -29,14 +29,14 @@ I created a subsequent cluster bar graph to visualize the overall, sheltered, an
 Similar to the California dataset there appears to be an increase in the overall amount of homeless non-hispanic/non-latino indiviuals as the years go by. Unlike the California dataset, the amount of sheltered non-hispanic/non-latino indiviuals appears decrease as time goes by. The amount of unsheltered non-hispanic/non-latino indiviuals appears to fluctuate between the years of 2015 and 2019, however, there is a sharp increase from 2019 to 2020 which may be explained by various cofoundings including the start of hte covid 19 pandemic. Although it is not stated in out dataset, this decreasing trend of sheltered individuals may be due to a decrease in homeless shelter funding or resources or homeless individuals simily choosing not to seek shelters.
 
 
-### Statistical Analysis: Anova comparing the overall, shltered, unsheltered non-hispanic/non-latino homeless individuals in Texas - 
+### Statistical Analysis: Anova comparing the overall, sheltered, unsheltered non-hispanic/non-latino homeless individuals in Texas - 
   Ho = There are no significant differences among the homeless groups non-hispanic/non-latino individuals in the state of Texas. 
   Ha = There is a significant difference among at least one of the homeless groups non-hispanic/non-latino individuals in the state of Texas.
 
 Since the p-value < 0.05 there is evidence to reject the null hypothesis in favor of the alternative hypothesis. At least one of the homeless groups of non-hispanic/non-latino individuals in the state of Texas is significantly different than the others. A Tukey's test or Bonferroni correction can also be performed to identify which specific groups differ from each other.
 
 
-### Statistical Analysis: Anova comparing the overall, shltered, unsheltered non-hispanic/non-latino homeless individuals in California - 
+### Statistical Analysis: Anova comparing the overall, sheltered, unsheltered non-hispanic/non-latino homeless individuals in California - 
 
   Ho = There are no significant differences among the homeless groups non-hispanic/non-latino individuals in the state of California. 
   Ha = There is a significant difference among at least one of the homeless groups non-hispanic/non-latino individuals in the state of California.
